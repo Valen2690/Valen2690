@@ -15,6 +15,9 @@ El bootcamp que realice en Henry, me permitió adquirir conocimiento y la experi
 - **Python**: Manejo bibliotecas como Pandas, Seaborn y Matplotlib para el análisis y visualización de datos.
 - **SQL Management Studio**: Experiencia en consultas y gestión de bases de datos.
 
+### ¿Donde puedes contactarme? 🤔
+Me gustaría continuar perfeccionando mis habilidades en Data, si tienes un proyecto en el cual pueda aportar contactame al correo:valenospi26@gmail.com
+
 <!--
 **Valen2690/Valen2690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
